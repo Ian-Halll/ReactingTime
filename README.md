@@ -11,7 +11,7 @@ This is an updated version of my portfolio, now using react rather than a static
 - [Questions](#questions)
       
 ## Installation
-The site is hosted publicly at, if you are interested in the source code, it is available publicly in this repository
+The site is hosted publicly at https://niceportfoliokid.herokuapp.com/, if you are interested in the source code, it is available publicly in this repository
       
 ## Usage
 The site is used to publicly host my past work, and will be used to host any future creations
