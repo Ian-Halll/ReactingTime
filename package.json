@@ -4,7 +4,9 @@
 
   "version": "0.1.0",
 
-  "private": "false",
+  "private": "true",
+
+  "homepage":"https://ian-halll.github.io/ReactingTime",
 
   "dependencies": {
 
@@ -69,6 +71,12 @@
       "last 1 safari version"
 
     ]
+
+  },
+
+  "devDependencies": {
+
+    "gh-pages": "^5.0.0"
 
   }
 
