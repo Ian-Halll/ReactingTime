@@ -1,7 +1,7 @@
-# Nice Portfolio Kid
+# Reacting Time
       
 ## Description
-This is an updated portfolio, now using react rather than a single static HTML page
+This is an updated version of my portfolio, now using react rather than a static HTML page, and including more recent projects of mine.
       
 ## Table Of Contents
 - [Installation](#installation)
@@ -21,6 +21,8 @@ Ian Hall
       
 ## License
 This Project Is Licensed Under The MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
       
 ## Questions
 You can reach me via email at ianmatthall@gmail.com
